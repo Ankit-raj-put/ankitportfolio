@@ -13246,6 +13246,11 @@ textarea.form-control {
 
 .ftco-footer .ftco-footer-widget ul li a span {
   color: rgba(255, 255, 255, 0.6);
+  font-family: 'FontAwesome' !important;
+}
+
+.ftco-footer .ftco-footer-widget ul li a span.text {
+    font-family: 'Poppins' !important;
 }
 
 .ftco-footer .ftco-footer-widget .btn-primary {
@@ -13304,6 +13309,7 @@ textarea.form-control {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  font-family: 'FontAwesome' !important;
 }
 
 .ftco-footer-social li a:hover {
@@ -13691,6 +13697,7 @@ textarea.form-control {
 .contact-section .box .icon span {
   color: #ffbd39;
   font-size: 30px;
+  font-family: 'FontAwesome' !important;
 }
 
 .contact-section .box h3 {
