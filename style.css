@@ -81,6 +81,12 @@
   height: 100%;
 }
 
+a#downloadBtn:hover {
+    background: transparent !important;
+    border: 1px solid #fff !important;
+    color: #fff !important;
+}
+
 .preloader {
   bottom: 0;
   left: 0;
