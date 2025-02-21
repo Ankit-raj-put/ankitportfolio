@@ -129,6 +129,7 @@ a#downloadBtn:hover {
 
 i.icon-heart.color-danger {
   color: red !important;
+  font-family: 'FontAwesome' !important;
 }
 
 section.ftco-section.ftco-hireme.img.margin-top {
